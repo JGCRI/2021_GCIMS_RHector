@@ -14,3 +14,20 @@ Materials for the R Hector tutorial for the 2021 Annual GCIMS Meeting. While hav
 **Window Users Only** 
 If you are working on a Windows machine you will complete an additional step and install RTools, see [here](https://datag.org/resources/documents/spring-2018/37-de-barros-installing-r-on-windows/file) for details. 
 
+
+
+## Additional Resources 
+
+Repository Contents 
+* run_before_demo.R: an R script you can run before starting the demo if there are internet connection issues, we will go through these steps during the video demo.
+* video.R: an annotated version of the script that was used to create the videos used in the demo
+
+R related resources 
+* How to install R: https://cloud.r-project.org/https:/cloud.r-project.org/
+* How to install Rstudio: https://rstudio.com/products/rstudio/download/#download
+* NSF Learning R: https://www.neonscience.org/resources/learning-hub/tutorials/resources-learn-r 
+* Making graphs in R: http://www.cookbook-r.com/Graphs/
+
+Hector Resources 
+* https://github.com/jgcri/hector
+* Online Hector Manual: https://jgcri.github.io/hector/articles/manual/index.html
